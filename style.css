@@ -47,7 +47,7 @@ li {
 
 .container {
   justify-self: center;
-  margin-top: 200px;
+  margin-top: 120px;
   background: white;
   border-radius: 4px;
   padding: 20px;
@@ -69,4 +69,4 @@ li {
     margin-right: 10px;
     margin-left: 10px;
   }
-
+}
